@@ -1,0 +1,3 @@
+ipconfig
+Get-ChildItem -Path C:\Parent -Depth 2
+ping -n 3 127.0.0.1
