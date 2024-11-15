@@ -120,7 +120,7 @@ set arp.spoof.targets 192.168.1.93
 arp.spoof on
 `
 <img src="img/spoofedip.png" alt="Logo" width="300" height="100">
-<img src="img/c2.jpg" alt="c2" width="200" height="150">
+<img src="img/c2 .jpg" alt="c2" width="200" height="150">
 ### Limitations 
 with this script the server and client runs on same computer but you could just edit the c2_server.py and c2_client.py to start on separate computers
 limitation 
