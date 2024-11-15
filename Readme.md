@@ -119,8 +119,8 @@ net.probe on
 set arp.spoof.targets 192.168.1.93 
 arp.spoof on
 `
-![spoofed ip](../img/spoofedip.png)
-![c2 running](../img/c2.jpg)
+<img src="img/spoofedip.png" alt="Logo" width="300" height="100">
+)<img src="img/c2.jpg" alt="Logo" width="200" height="150">
 ### Limitations 
 with this script the server and client runs on same computer but you could just edit the c2_server.py and c2_client.py to start on separate computers
 limitation 
